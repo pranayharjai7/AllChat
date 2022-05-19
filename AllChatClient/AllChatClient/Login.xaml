@@ -21,7 +21,7 @@
         </Grid.RowDefinitions>
 
         <StackPanel VerticalAlignment="Center" Grid.Row="0">
-            <TextBlock Text="ALL CHAT" 
+            <TextBlock Text="My CHAT" 
                        HorizontalAlignment="Center" 
                        FontSize="50" 
                        FontFamily="Comic Sans MS"
